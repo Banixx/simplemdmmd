@@ -1,8 +1,7 @@
-# Mermaid Diagram Viewer
+# Simple Markdown (.md) and Mermaid (.mmd) Viewer in the Browser
 
-A simple, self-contained HTML application that lets you quickly render [Mermaid](https://mermaid.js.org/) diagrams from code snippets. Perfect for quickly visualizing flowcharts, sequence diagrams, class diagrams, and other supported Mermaid formats without requiring any installation or online tools.
+A simple, self-contained HTML application that lets you quickly render Markdown and [Mermaid](https://mermaid.js.org/) diagrams from code snippets. Also mixe content; Mermaid diagram embedded n Markdown.
 
-[Try it here](https://tiebingzhang.github.io/mermaid-viewer/)
 ## Features
 
 - **Single-file Solution**: Everything contained in one HTML file - no server needed
@@ -17,7 +16,7 @@ No installation required! Simply:
 
 1. Download the `index.html` file
 2. Open it in any modern web browser
-3. Start creating diagrams!
+3. Drop .md and .mmd files in the Browser
 
 ## Dependencies
 
