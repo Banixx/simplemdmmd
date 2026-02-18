@@ -1,6 +1,7 @@
 # Simple Markdown (.md) and Mermaid (.mmd) Viewer in the Browser
 
 A simple, self-contained HTML application that lets you quickly render Markdown and [Mermaid](https://mermaid.js.org/) diagrams from code snippets. Also mixe content; Mermaid diagram embedded n Markdown.
+This Project is based on [Mermaid Viewer](https://github.com/tiebingzhang/mermaid-viewer) and get enhanced to view Markdown. Thank you Tiebing!
 
 ## Features
 
